@@ -1,4 +1,4 @@
-uicolor-mix
+UIColor+Mix
 ===========
 
 Allows calculation of colors partway in between other colors
